@@ -17,6 +17,6 @@ void main() {
 
     printf("Hello, FPT Polytechnic!\n");
 
-    printf("Chào mừng Bạn đến với Nhập môn lập trình - COM108!\n");
+    printf("Chào mừng Bạn đến với Nhập môn lập trình1 - COM108!\n");
 
 }
