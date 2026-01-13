@@ -12,7 +12,6 @@
 // 4. Tạo chương trình C đầu tiên
 
 #include <stdio.h>
-
 void main() {
 
     printf("Hello, FPT Polytechnic!\n");
